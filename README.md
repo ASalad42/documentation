@@ -4,14 +4,18 @@ https://github.com/ASalad42/Github-demo/blob/main/README.md > link for git/githu
 Markdown documentation keeps your code and work organised and can be used by members of the oragnisation to see what you have done. In this document i will show examples of useful features and how to keep a clean document.
 
 First we begin with how to setup plugins:
+
 1. go to settings 
+
 ![image](https://user-images.githubusercontent.com/104793540/182097658-9e6326d3-00fd-49d2-98c3-f9d0547b6e5e.png)
+
 2. navigate to plugins and download the one you need 
 ![image](https://user-images.githubusercontent.com/104793540/182097779-9272d623-e2c2-48ec-a5f1-1307dd8e0864.png)
 
 Adding other useful documentations
 - Bullet points can be added with a dash line - 
 - images can be added via the following:
+
 1.use ![](file path) to add an image directly into your pycharm 
 2. add image to pycharmprojects in your pc so we can use it within pycharm 
 ![image](https://user-images.githubusercontent.com/104793540/182099038-8042c977-0165-4fb0-babd-99cc1dddea99.png)
